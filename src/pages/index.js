@@ -78,7 +78,7 @@ export default function IndexPage({ mercadoPagoUrl }) {
               <span>$13.52</span>
             </div>
             <div className="flex text-sm font-bold">
-              <span className="flex-1">Total (USD)</span>
+              <span className="flex-1 mb-6">Total (USD)</span>
               <span>$132.20</span>
             </div>
           </div>
